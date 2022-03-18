@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jss@10.6.0",
+      "destination": "wwwroot/lib/"
+    }
+  ]
+}
